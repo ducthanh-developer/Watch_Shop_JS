@@ -1,0 +1,373 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "name": "Limited Edition"
+    },
+    {
+      "id": 2,
+      "name": "Đồng hồ quân đội"
+    },
+    {
+      "id": 3,
+      "name": "Đồng hồ điện tử"
+    },
+    {
+      "id": 4,
+      "name": "Đồng hồ đính kim cương"
+    },
+    {
+      "id": 5,
+      "name": "Đồng hồ xà cừ"
+    },
+    {
+      "id": 6,
+      "name": "Đồng hồ trẻ em"
+    },
+    {
+      "id": 7,
+      "name": "đã sửa"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "image": "https://cdn3.dhht.vn/wp-content/uploads/2021/05/GA-2110ET-2ADR-399x399.jpg",
+      "name": "G-Shock GA-2110ET-2ADR – Nam – Quartz (Pin) – Dây Cao Su",
+      "price": 3726000,
+      "detail": "Mẫu G-Shock GA-2110ET-2ADR phiên bản dây vỏ nhựa phối tone màu xanh thời trang nam tính cùng với khả năng chịu nước nổi bật lên đến 20atm.",
+      "cat_id": 3
+    },
+    {
+      "id": 2,
+      "name": "G-Shock GA-2110ET-8ADR – Nam – Quartz (Pin) – Dây Cao Su",
+      "image": "https://cdn3.dhht.vn/wp-content/uploads/2021/05/GA-2110ET-8ADR-399x399.jpg",
+      "price": 3726000,
+      "detail": "Mẫu G-Shock GA-2110ET-2ADR phiên bản dây vỏ nhựa phối tone màu xanh thời trang nam tính cùng với khả năng chịu nước nổi bật lên đến 20atm.",
+      "cat_id": 3
+    },
+    {
+      "id": 3,
+      "name": "Casio LWS-1100H-8AVDF – Nam – Quartz (Pin) – Dây Cao Su – Mặt Số 38mm",
+      "image": "https://cdn3.dhht.vn/wp-content/uploads/2021/01/133_LWS-1100H-8AVDF-399x399.jpg",
+      "price": 1111000,
+      "detail": "Mẫu Casio LWS-1100H-8AVDF phiên bản mặt số điện tử hiện thị đa chức kết hợp thiết kế dây vỏ nhựa chịu va đập phong cách trẻ trung năng động.",
+      "cat_id": 3
+    },
+    {
+      "id": 4,
+      "name": "G-Shock GMW-B5000D-1DR – Nam – Solar (Năng Lượng Ánh Sáng) – Dây Kim Loại",
+      "image": "https://cdn3.dhht.vn/wp-content/uploads/2021/01/116_GMW-B5000D-1DR-399x399.jpg",
+      "price": 18095000,
+      "detail": "Mẫu G-Shock GMW-B5000D-1DR phiên bản dây vỏ kim loại mạ bạc nổi bật tính năng Bluetooth kết nối điện thoại đầy tiện ích hiện thị trên nền mặt số điện tử.",
+      "cat_id": 3
+    },
+    {
+      "id": 5,
+      "name": "G-Shock DW-5700TH-1DR – Nam – Quartz (Pin) – Dây Cao Su",
+      "image": "https://cdn3.dhht.vn/wp-content/uploads/2021/01/110_DW-5700TH-1DR-399x399.jpg",
+      "price": 3208000,
+      "detail": "Mẫu G-Shock DW-5700TH-1DR phiên bản dây vỏ nhựa chịu va đập phối tone màu đen năng động, mặt số điện tử đa chức năng kết hợp cùng khả năng chịu nước lên đến 20atm.",
+      "cat_id": 3
+    },
+    {
+      "id": 6,
+      "name": "Citizen EM0794-54D – Nữ – Kính Sapphire – Eco-Drive (Năng Lượng Ánh Sáng) – Dây Kim Loại – Mặt Số 32mm",
+      "image": "https://cdn3.dhht.vn/wp-content/uploads/2021/05/EM0794-54D-399x399.jpg",
+      "price": 15880000,
+      "detail": "Mẫu Citizen EM0794-54D dây đeo kim loại phiên bản dây lưới mạ vàng thời trang trẻ trung cho phái đẹp, thiết kế sang trọng 12 viên pha lê đính trên nền mặt số tone màu trắng xà cừ.",
+      "cat_id": 4
+    },
+    {
+      "id": 7,
+      "name": "Citizen EM0796-75D – Nữ – Kính Sapphire – Eco-Drive (Năng Lượng Ánh Sáng) – Dây Kim Loại – Mặt Số 32mm",
+      "image": "https://cdn3.dhht.vn/wp-content/uploads/2021/05/EM0796-75D-399x399.jpg",
+      "price": 16300000,
+      "detail": "Mẫu Citizen EM0796-75D phiên bản dây lưới vàng hồng thời trang trẻ trung cho phái đẹp, cùng với thiết kế sang trọng 12 viên pha lê đính trên nền mặt số size 32mm tone màu trắng xà cừ.",
+      "cat_id": 4
+    },
+    {
+      "id": 8,
+      "name": "Citizen EM0794-03Y – Nữ – Kính Sapphire – Eco-Drive (Năng Lượng Ánh Sáng) – Dây Da – Mặt Số 32mm",
+      "image": "https://cdn3.dhht.vn/wp-content/uploads/2021/05/EM0794-03Y-399x399.jpg",
+      "price": 11930000,
+      "detail": "Mẫu Citizen EM0794-03Y phiên bản dây da trơn phối tone xanh thời trang trẻ trung cho phái đẹp, cùng với thiết kế sang trọng 4 viên pha lê đính trên nền mặt số trắng xà cừ.",
+      "cat_id": 4
+    },
+    {
+      "id": 9,
+      "name": "Citizen EM0796-08Y – Nữ – Kính Sapphire – Eco-Drive (Năng Lượng Ánh Sáng) – Dây Da – Mặt Số 32mm",
+      "image": "https://cdn3.dhht.vn/wp-content/uploads/2021/05/EM0796-08Y-399x399.jpg",
+      "price": 12100000,
+      "detail": "Mẫu Citizen EM0796-08Y phiên bản dây da trơn phối tone trắng thời trang trẻ trung cho phái đẹp, cùng với thiết kế sang trọng 4 viên pha lê đính trên nền mặt số trắng xà cừ.",
+      "cat_id": 4
+    },
+    {
+      "id": 10,
+      "name": "Citizen EM0796-59Y – Nữ – Kính Sapphire – Eco-Drive (Năng Lượng Ánh Sáng) – Dây Kim Loại – Mặt Số 32mm",
+      "image": "https://cdn3.dhht.vn/wp-content/uploads/2021/05/EM0796-59Y-399x399.jpg",
+      "price": 13020000,
+      "detail": "Mẫu Citizen EM0796-59Y dây đeo kim loại phiên bản dây lưới mạ bạc thời trang trẻ trung cho phái đẹp, cùng với thiết kế sang trọng 4 viên pha lê đính trên nền mặt số tone màu trắng xà cừ.",
+      "cat_id": 4
+    },
+    {
+      "id": 11,
+      "name": "Doxa D187RIY – Nam – Kính Sapphire – Automatic (Tự Động) – Dây Da – Limited Edition",
+      "image": "https://cdn3.dhht.vn/wp-content/uploads/2018/01/12_D187RIY-2-399x399.jpg",
+      "price": 166500000,
+      "detail": "Một thiết kế mang phong cách lịch lãm nam tính đến từ mẫu Doxa phiên bản giới hạn chỉ 500 chiếc trên toàn thế giới D187RIY, sang trọng tinh tế với phần vạch số mỏng được vàng hồng thời trang trước mặt kính Sapphire",
+      "cat_id": 1
+    },
+    {
+      "id": 12,
+      "name": "Doxa D154TWH – Nam – Kính Sapphire – Handwinding (Lên Cót Bằng Tay) – Dây Da – Limited Edition",
+      "image": "https://cdn3.dhht.vn/wp-content/uploads/2018/01/6_D154TWH-399x399.jpg",
+      "price": 135830000,
+      "detail": "Mẫu Doxa D154TWH phiên bản giới hạn 1000 chiếc trên toàn thế giới, sự kết hợp cách điệu giữa các vạch số cùng chữ số la mã được mạ vàng sang trọng, điểm nhấn với nền mặt số Skeleton lộ máy",
+      "cat_id": 1
+    },
+    {
+      "id": 13,
+      "name": "Doxa D181TBU – Nam – Kính Sapphire – Automatic (Tự Động) – Dây Da – Limited Edition",
+      "image": "https://cdn3.dhht.vn/wp-content/uploads/2018/01/13_D181TBU-2-399x399.jpg",
+      "price": 160400000,
+      "detail": "Một phong cách lịch lãm đến từ mẫu dây đeo chất liệu da có vân được phối tông màu đen nam tính đến từ mẫu Doxa D181TBU phiên bản giới hạn 300 chiếc trên thế giới, chi tiết đồng hồ mạ vàng 18K sang trọng",
+      "cat_id": 1
+    },
+    {
+      "id": 14,
+      "name": "Fouetté OR-FAIRY I – Nữ – Kính Sapphire – Quartz (Pin) – Dây Da – Limited Edition",
+      "image": "https://cdn3.dhht.vn/wp-content/uploads/2020/01/OR-FAIRY-1-399x399.jpg",
+      "price": 25500000,
+      "detail": "Mẫu Fouetté OR-FAIRY I phiên bản giới hạn 99 chiếc trên toàn thế giới mang trên mình một thiết kế độc đáo khắc họa lên hình ảnh một vũ công ba lê trên nền mặt số size 38mm.",
+      "cat_id": 1
+    },
+    {
+      "id": 15,
+      "name": "Fouetté OR-FAIRY II – Nữ – Kính Sapphire – Quartz (Pin) – Dây Da – Limited Edition",
+      "image": "https://cdn3.dhht.vn/wp-content/uploads/2020/01/OR-FAIRY-2-399x399.jpg",
+      "price": 25500000,
+      "detail": "Mẫu Fouetté OR-FAIRY II phiên bản giới hạn 99 chiếc trên toàn thế giới mang trên mình một thiết kế độc đáo khắc họa lên hình ảnh một vũ công ba lê trên nền mặt số xà cừ size 38mm.",
+      "cat_id": 1
+    },
+    {
+      "id": 16,
+      "name": "Casio AE-1200WHB-1BVDF – Nam – Kính Nhựa – Quartz (Pin) – Dây Vải",
+      "image": "https://cdn3.dhht.vn/wp-content/uploads/2017/11/12_AE-1200WHB-1BVDF-399x399.jpg",
+      "price": 1160000,
+      "detail": "Đồng hồ nam Casio AE-1200WHB-1BVDF với thiết kế mạnh mẽ, vỏ máy tông màu xanh lục chủ đạo kết hợp cùng màu đen của viền bên ngoài tinh tế, phối cùng bộ dây đeo bằng vải tạo nên phong cách đậm chất cá tính.",
+      "cat_id": 2
+    },
+    {
+      "id": 17,
+      "name": "Casio AE-1200WHB-3BVDF – Nam – Kính Nhựa – Quartz (Pin) – Dây Vải",
+      "image": "https://cdn3.dhht.vn/wp-content/uploads/2017/08/13_AE-1200WHB-3BVDF-399x399.jpg",
+      "price": 1160000,
+      "detail": "Đồng hồ Casio AE-1200WHB-3BVDF với thiết kế mạnh mẽ, vỏ có màu chủ đạo là màu xanh lục kết hợp cùng màu đen của viền bên ngoài tinh tế, dây đeo bằng vải màu xanh lục cá tính.",
+      "cat_id": 2
+    },
+    {
+      "id": 18,
+      "name": "G-Shock GG-1000-1ADR – Nam – Quartz (Pin) – Dây Cao Su",
+      "image": "https://cdn3.dhht.vn/wp-content/uploads/2017/09/GG-1000-1ADR-399x399.jpg",
+      "price": 9525000,
+      "detail": "Đồng hồ G-Shock GG-1000-1ADR có mặt số tròn to, kim chỉ và vạch số màu trắng trang nhã nổi bật trên nền số điện tử, dây đeo cao su cao cấp  màu đen đem đến phong cách trẻ trung năng động dành cho phái mạnh.",
+      "cat_id": 2
+    },
+    {
+      "id": 19,
+      "name": "G-Shock GG-1000-1A5DR – Nam – Quartz (Pin) – Dây Cao Su",
+      "image": "https://cdn3.dhht.vn/wp-content/uploads/2017/01/GG-1000-1A5DR-399x399.jpg",
+      "price": 9525000,
+      "detail": "Đồng hồ G-Shock GG-1000-1A5DR có mặt số tròn to với vỏ màu đen mạnh mẽ, kim chỉ và vạch số phủ màu vàng nổi bật trên nền số điện tử, dây đeo cao su đem lại phong cách thời trang trẻ trung năng động.",
+      "cat_id": 2
+    },
+    {
+      "id": 20,
+      "name": "Seiko SRPE65K1 – Nam – Automatic (Tự Động) – Dây Vải – Mặt Số 40mm",
+      "image": "https://cdn3.dhht.vn/wp-content/uploads/2021/03/SRPE65K1-399x399.jpg",
+      "price": 6820000,
+      "detail": "Mẫu Seiko SRPE65K1 phiên bản dây vải phối tone màu xanh trẻ trung năng động cùng với thiết kế các chi tiết kim chỉ cùng cọc vạch số được phủ dạ quang nổi bật trên nền mặt số size 40mm.",
+      "cat_id": 2
+    },
+    {
+      "id": 21,
+      "name": "Doxa D106SMW – Nữ – Kính Sapphire – Automatic (Tự Động) – Dây Kim Loại – Mặt Số 27mm",
+      "image": "https://cdn3.dhht.vn/wp-content/uploads/2021/01/D106SMW-399x399.jpg",
+      "price": 139940000,
+      "detail": "Mẫu Doxa D106SMW phiên bản đính kim cương trên chi tiết dây vỏ lẫn mặt số, mặt số size 27mm thiết kế đơn giản chức năng 3 kim.",
+      "cat_id": 5
+    },
+    {
+      "id": 22,
+      "name": "Rado R27243852 – Nữ – Kính Sapphire – Automatic (Tự Động) – Dây Kim Loại – Mặt Số 30mm",
+      "image": "https://cdn3.dhht.vn/wp-content/uploads/2021/03/R27243852-399x399.jpg",
+      "price": 71750000,
+      "detail": "Mẫu Rado R27243852 phiên bản 60 viên kim cương đính trên phần vỏ viền đồng hồ tạo nên thiết kế thời trang sang trọng cùng với nền mặt số size 30mm phối tone màu xà cừ.",
+      "cat_id": 5
+    },
+    {
+      "id": 23,
+      "name": "Rado R30248712 – Nữ – Kính Sapphire – Automatic (Tự Động) – Dây Kim Loại – Mặt Số 33mm",
+      "image": "https://cdn3.dhht.vn/wp-content/uploads/2021/03/R30248712-399x399.jpg",
+      "price": 70130000,
+      "detail": "Mẫu Rado R30248712 phiên bản Skeleton (cơ lộ máy) thiết kế độc đáo tạo điểm nhấn sang trọng với 12 viên kim cương đính tương ứng 12 múi giờ trên nền mặt số size 33mm.",
+      "cat_id": 5
+    },
+    {
+      "id": 24,
+      "name": "Rado R22882923 – Nữ – Kính Sapphire – Quartz (Pin) – Dây Kim Loại – Mặt Số 34mm",
+      "image": "https://cdn3.dhht.vn/wp-content/uploads/2021/03/R22882923-399x399.jpg",
+      "price": 68750000,
+      "detail": "Mẫu Rado R22882923 phiên bản 12 viên kim cương đính tương ứng 12 múi giờ trên nền mặt số size 34mm phối tone màu trắng xà cừ phong cách thời trang cho phái đẹp.",
+      "cat_id": 5
+    },
+    {
+      "id": 25,
+      "name": "Longines L2.128.5.37.7 – Nữ – Kính Sapphire – Automatic (Tự Động) – Dây Kim Loại",
+      "image": "https://cdn3.dhht.vn/wp-content/uploads/2017/01/36_L2.128.5.37.7-399x399.jpg",
+      "price": 67320000,
+      "detail": "Mẫu đồng hồ nữ Longines L2.128.5.37.7 có vỏ máy bằng thép không gỉ cao cấp tạo vẻ chắc chắn sang trọng, mặt đồng hồ màu vàng sang trọng với thiết kế nữ tính, cùng với dây đeo demi.",
+      "cat_id": 5
+    },
+    {
+      "id": 26,
+      "name": "Baby-G BA-130-4ADR – Nữ – Quartz (Pin) – Dây Cao Su",
+      "image": "https://cdn3.dhht.vn/wp-content/uploads/2020/03/88_BA-130-4ADR-399x399.jpg",
+      "price": 4343000,
+      "detail": "Mẫu Baby-G BA-130-4ADR phiên bản năng động với khả năng chịu nước 10atm, dây vỏ nhựa phối tone màu hồng thời trang nổi bật, mặt số kim chỉ kết hợp với ô số điện tử hiện thị đa chức năng tiện ích.",
+      "cat_id": 6
+    },
+    {
+      "id": 27,
+      "name": "Baby-G BA-130-7A1DR – Nữ – Quartz (Pin) – Dây Cao Su",
+      "image": "https://cdn3.dhht.vn/wp-content/uploads/2019/09/36_BA-130-7A1DR-399x399.jpg",
+      "price": 4343000,
+      "detail": "Mẫu Baby-G BA-130-7A1DR thiết kế thời trang với phần dây vỏ nhựa khả năng chịu va đập, kết hợp cùng ô số điện tử đa chức năng với vẻ ngoài năng động.",
+      "cat_id": 6
+    },
+    {
+      "id": 28,
+      "name": "Baby-G BGA-230SA-4ADR – Nữ – Quartz (Pin) – Dây Cao Su",
+      "image": "https://cdn3.dhht.vn/wp-content/uploads/2019/03/33_BGA-230SA-4ADR-399x399.jpg",
+      "price": 4343000,
+      "detail": "Mẫu Baby-G BGA-230SA-4ADR với phiên bản mặt đồng hồ được tích hợp thêm ô số điện tử tăng thêm vẻ năng động cùng với tổng thể đồng hồ được phối tông màu kem mang đến một sắc màu thời trang cho các bạn nữ.",
+      "cat_id": 6
+    },
+    {
+      "id": 29,
+      "name": "Baby-G BGA-195-8ADR – Nữ – Quartz (Pin) – Dây Cao Su",
+      "image": "https://cdn3.dhht.vn/wp-content/uploads/2018/04/162_BGA-195-8ADR-1-399x399.jpg",
+      "price": 4343000,
+      "detail": "Mẫu Baby-G BGA-195-8ADR thiết kế tổng thể được bao phủ tông màu xám sắc màu thời trang mang lại một phong cách năng động dành cho các bạn nữ đầy cá tính, cùng với khả năng chịu nước lên đến 10 ATM.",
+      "cat_id": 6
+    },
+    {
+      "id": 30,
+      "name": "Baby-G BGA-195M-4ADR – Nữ – Quartz (Pin) – Dây Cao Su",
+      "image": "https://cdn3.dhht.vn/wp-content/uploads/2018/04/161_BGA-195M-4ADR-1-399x399.jpg",
+      "price": 4343000,
+      "detail": "Baby-G BGA-195M-4ADR thiết kế tổng thể được bao phủ tông màu đỏ sắc màu nổi trội mang lại một phong cách khá năng động dành cho các bạn nữ đầy cá tính, cùng với khả năng chịu nước lên đến 10 ATM phù hợp cho các hoạt động ngoài trời.",
+      "cat_id": 6
+    },
+    {
+      "id": 31,
+      "name": "Seiko SRPF70K1 – Nam – Automatic (Tự Động) – Dây Vải – Mặt Số 42.5mm – Limited Edition",
+      "image": "https://cdn3.dhht.vn/wp-content/uploads/2021/06/SRPF70K1-399x399.jpg",
+      "price": 13190000,
+      "detail": "Mẫu Seiko SRPF70K1 dây đeo phiên bản dây vải phối tone màu cam thời trang năng động, cùng với các chi tiết kim chỉ cùng cọc vạch số được phủ dạ quang nổi bật trên nền mặt số size 42.5mm.",
+      "cat_id": 1
+    },
+    {
+      "id": 32,
+      "name": "Seiko SRPF71K1 – Nam – Automatic (Tự Động) – Dây Vải – Mặt Số 42.5mm – Limited Edition",
+      "image": "https://cdn3.dhht.vn/wp-content/uploads/2021/06/SRPF71K1-399x399.jpg",
+      "price": 13190000,
+      "detail": "Mẫu Seiko SRPF71K1 dây đeo phiên bản dây vải phối tone màu xám nam tính, cùng với các chi tiết kim chỉ được phủ dạ quang nổi bật trên nền mặt số size 42.5mm.",
+      "cat_id": 1
+    },
+    {
+      "id": 33,
+      "image": "https://cdn3.dhht.vn/wp-content/uploads/2017/04/102_D154SWH-399x399.jpg",
+      "name": "Doxa D154SWH – Nam – Kính Sapphire – Handwinding (Lên Cót Bằng Tay) – Dây Da – Limited Edition",
+      "price": 78380000,
+      "detail": "Mẫu đồng hồ Doxa D154SWH phiên bản Limited giới hạn 1000 chiếc trên toàn thế giới, mặt số tròn với các vạch số cùng chữ số la mã to kiểu dáng nam tính, thiết kế Skeleton cơ lộ máy độc đáo trước mặt kính Sapphire.",
+      "cat_id": "1"
+    },
+    {
+      "id": 34,
+      "name": "Rado R32022102 – Nam – Kính Sapphire – Automatic (Tự Động) – Dây Kim Loại – Limited Edition – Mặt Số 45mm",
+      "image": "https://cdn3.dhht.vn/wp-content/uploads/2021/03/R32022102-399x399.jpg",
+      "price": 131000000,
+      "detail": "Mẫu Rado R32022102 phiên bản giới hạn chỉ 999 chiếc trên toàn thế giới, thiết kế 3 núm điều chỉnh tính năng Chronograph (đo thời gian) hiện thị trên nền mặt số lớn size 45mm.",
+      "cat_id": 1
+    },
+    {
+      "id": 35,
+      "name": "Doxa D154SWH – Nam – Kính Sapphire – Handwinding (Lên Cót Bằng Tay) – Dây Da – Limited Edition",
+      "image": "https://cdn3.dhht.vn/wp-content/uploads/2017/04/102_D154SWH-399x399.jpg",
+      "price": 78380000,
+      "detail": "Mẫu đồng hồ Doxa D154SWH phiên bản Limited giới hạn 1000 chiếc trên toàn thế giới, mặt số tròn với các vạch số cùng chữ số la mã to kiểu dáng nam tính, thiết kế Skeleton cơ lộ máy độc đáo trước mặt kính Sapphire.",
+      "cat_id": 1
+    }
+  ],
+  "orders": [
+    {
+      "id": 1,
+      "customer_name": "Đức",
+      "customer_address": "HCM",
+      "customer_email": "ducnguyenthanh613@gmail.com",
+      "customer_phone": "0968671917",
+      "create_date": "27/06/2020",
+      "status": "Thành công"
+    },
+    {
+      "customer_name": "Đức",
+      "customer_address": "hcm",
+      "customer_email": "ducthanh@gmail.com",
+      "customer_phone": "0968671917",
+      "create_date": "13/10/2021",
+      "status": "Thành công",
+      "id": 2
+    },
+    {
+      "customer_name": "đức 2",
+      "customer_address": "hcm",
+      "customer_email": "ducthanh@gmail.com",
+      "customer_phone": "0968671917",
+      "create_date": "13/10/2021",
+      "status": "Thành công",
+      "id": 3
+    }
+  ],
+  "order_detail": [
+    {
+      "id": 1,
+      "order_id": 1,
+      "product_id": 2,
+      "quantity": 1,
+      "unti_price": 3726000
+    },
+    {
+      "order_id": 2,
+      "product_id": 11,
+      "quantity": 3,
+      "unti_price": 499500000,
+      "id": 2
+    },
+    {
+      "order_id": 3,
+      "product_id": 12,
+      "quantity": 1,
+      "unti_price": 135830000,
+      "id": 3
+    },
+    {
+      "order_id": 3,
+      "product_id": 13,
+      "quantity": 1,
+      "unti_price": 160400000,
+      "id": 4
+    }
+  ]
+}
